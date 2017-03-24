@@ -1,7 +1,7 @@
 {
-  "name": "react-starter-kit",
+  "name": "react-admin",
   "version": "0.2.0",
-  "description": "Get started with React, Redux, and React-Router!",
+  "description": "React 后台管理系统模板，React + React-Router + Webpack + ES6 + Antd , 未集成 redux， 后面会加一个集成redux的模板",
   "main": "index.js",
   "engines": {
     "node": ">=4.5.0",
