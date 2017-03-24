@@ -1,12 +1,22 @@
 >时间：2017-03-24 18:17:38
 
+[《项目结构说明文档》](https://github.com/zhongxia245/React-Admin/blob/master/SCAFFOLD_README.md)
+
 # React-Admin
-React 后台管理系统模板，React + React-Router + Webpack + ES6 + Antd , 未集成 redux， 后面会加一个集成redux的模板
+React 后台管理系统模板，React + React-Router + Webpack + ES6 + Antd
+
+目前认为该模板 不加入 redux， 后面会考虑加一个集成redux的模板。
+
+
+
 
 ## 零、计划实现
+- [x] Markdown 格式文本的展示
 - [ ] 登录逻辑
 - [ ] 表格的新增，编辑和删除
-- [x] Markdown 格式文本的展示
+- [ ] 导航栏缩起功能
+- [ ] 主题功能
+- [ ] 加入报图功能
 
 ## 一、如何运行
 ```bash
